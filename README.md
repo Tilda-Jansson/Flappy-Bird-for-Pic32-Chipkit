@@ -6,7 +6,7 @@ This project presents an adaptation of the popular Flappy Bird game for the PIC3
 
 In the 'Nightmare' mode, obstacles move in both the X and Y directions, making the game more challenging compared to the 'Normal' mode, where obstacles only move in the X direction.
 
-See the video demo of the game in action [**here**](video/Demo.mp4)
+See the video demo of the game in 'Nightmare' mode in action [**here**](video/Demo.mp4)
 
 ## Features
 
